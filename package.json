@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "main": "./src/app.js",
     "dependencies": {
-        "chalk": "^3.0.0"
+        "chalk": "^3.0.0",
+        "handlebars": "^4.7.2"
     }
 }
