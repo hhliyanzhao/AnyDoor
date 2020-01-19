@@ -1,0 +1,10 @@
+{
+    "name": "anydoor",
+    "description": "AnyDoor a Static Web Server",
+    "authors": "lyz",
+    "version": "1.0.0",
+    "main": "./src/app.js",
+    "dependencies": {
+        "chalk": "^3.0.0"
+    }
+}
